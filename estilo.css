@@ -1,0 +1,50 @@
+body{
+	background: #F4F4F4;
+	/*background-image: url('imagens/fundo.png');*/
+	background-repeat: repeat;
+	font: 16px "Times New Roman", Times, serif;
+}
+
+#principal{
+	width: 910px;
+	/*padding-left: 25%;*/
+	margin-left: auto;
+    margin-right: auto;
+}
+
+#menus{
+	background: #c5c5b2;
+	padding: 16px;  /* aplica um espaçamento interno*/
+}
+
+#sobre{
+	background: #1D262D;
+	/*background: #e8e8d9;*/
+	padding: 10px;
+
+}
+
+#rodape{
+	text-align: center;
+	background: #e8e8d9;
+}
+
+img{
+	border: 5px double black;
+}
+
+a{
+	color: #4b566a;
+	text-decoration: none; /* Remove os sublinhados dos hiperlinks */
+	font-weight: bold;
+	padding: 5px;
+}
+
+h2{
+	color: #DCDDDF;
+	font-size: 18px;
+}
+
+p {
+	color: #DCDDDF;
+}
